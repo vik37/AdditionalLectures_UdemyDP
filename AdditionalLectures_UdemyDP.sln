@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContinuationPassingStyle_Ud
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalInversionOfControl", "LocalInversionOfControl\LocalInversionOfControl.csproj", "{B4411A38-988C-490E-9F6C-551E6E8A5C81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeyondTheElviseOperator_UdemyDPAdditional_ConsoleApp", "BeyondTheElviseOperator_UdemyDPAdditional_ConsoleApp\BeyondTheElviseOperator_UdemyDPAdditional_ConsoleApp.csproj", "{8406ED8A-E102-414E-BF03-83A09C901E05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeyondTheElviseOperator_UdemyDPAdditional_ConsoleApp", "BeyondTheElviseOperator_UdemyDPAdditional_ConsoleApp\BeyondTheElviseOperator_UdemyDPAdditional_ConsoleApp.csproj", "{8406ED8A-E102-414E-BF03-83A09C901E05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRSAndEvendSoursing_UdemyDPAdditional_ConsoleApp", "CQRSAndEvendSoursing_UdemyDPAdditional_ConsoleApp\CQRSAndEvendSoursing_UdemyDPAdditional_ConsoleApp.csproj", "{E5CEBA13-6EC5-45CF-8EFD-CFC07482DFB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{8406ED8A-E102-414E-BF03-83A09C901E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8406ED8A-E102-414E-BF03-83A09C901E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8406ED8A-E102-414E-BF03-83A09C901E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5CEBA13-6EC5-45CF-8EFD-CFC07482DFB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CEBA13-6EC5-45CF-8EFD-CFC07482DFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CEBA13-6EC5-45CF-8EFD-CFC07482DFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CEBA13-6EC5-45CF-8EFD-CFC07482DFB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
