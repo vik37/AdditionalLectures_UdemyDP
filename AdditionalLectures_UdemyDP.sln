@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32929.386
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DuckTypingMixing_UdemyDPAdditional_ConsoleApp", "DuckTypingMixing_UdemyDPAdditional_ConsoleApp\DuckTypingMixing_UdemyDPAdditional_ConsoleApp.csproj", "{152B290D-D9A7-4898-87A8-8F5C3B81AB19}"
 EndProject
@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testing", "Testing\Testing.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContinuationPassingStyle_UdemyAdditional_ConsoleApp", "ContinuationPassingStyle_UdemyAdditional_ConsoleApp\ContinuationPassingStyle_UdemyAdditional_ConsoleApp.csproj", "{D7183BC3-F653-471E-A3FE-1D7202D4F58C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalInversionOfControl", "LocalInversionOfControl\LocalInversionOfControl.csproj", "{B4411A38-988C-490E-9F6C-551E6E8A5C81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalInversionOfControl", "LocalInversionOfControl\LocalInversionOfControl.csproj", "{B4411A38-988C-490E-9F6C-551E6E8A5C81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeyondTheElviseOperator_UdemyDPAdditional_ConsoleApp", "BeyondTheElviseOperator_UdemyDPAdditional_ConsoleApp\BeyondTheElviseOperator_UdemyDPAdditional_ConsoleApp.csproj", "{8406ED8A-E102-414E-BF03-83A09C901E05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{B4411A38-988C-490E-9F6C-551E6E8A5C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4411A38-988C-490E-9F6C-551E6E8A5C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4411A38-988C-490E-9F6C-551E6E8A5C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8406ED8A-E102-414E-BF03-83A09C901E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8406ED8A-E102-414E-BF03-83A09C901E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8406ED8A-E102-414E-BF03-83A09C901E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8406ED8A-E102-414E-BF03-83A09C901E05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
